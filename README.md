@@ -1,9 +1,6 @@
 ## Hi there 👋
 
-<!--
-**Kelbler21/Kelbler21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on System administration of IT structure
 - 🌱 I’m currently learning Python language, working with neural networks
@@ -13,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Telegram=@luchek , Email=Slavunkakelbler@gmail.com
 - 😄 Pronouns: Just a harsh Chelyabinsk man
 - ⚡ Fun fact: After moving from Chelyabinsk to St. Petersburg, my lung volume felt like it doubled
--->
+
